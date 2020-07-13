@@ -1,0 +1,16 @@
+### Hi there!
+
+<!--
+**@kyledacones/kyledacones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+
+A little about me:
+
+- 🔭 I’m currently working on GitHawk & A YouTube Recommender App w/YouTube API
+- 🌱 I’m currently learning Powershell & Pandas/Numpy
+- 👯 I’m looking to collaborate on Project Management, Documentation, &  
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
