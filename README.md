@@ -7,10 +7,10 @@
 A little about me:
 
 - 🔭 I’m currently working on GitHawk & A YouTube Recommender App w/YouTube API
-- 🌱 I’m currently learning Powershell & Pandas/Numpy
-- 👯 I’m looking to collaborate on Project Management, Documentation, &  
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning Powershell & Data Analysis (Pandas/Numpy) 
+- 👯 I’m looking to collaborate on Documentation, Code Reviews, & Python Utilities 
+- 🤔 I’m looking for help with Advanced Python & Solving Problems Using Code
+- 💬 Ask me about data modeling or living in Seattle during a tech boom
+- 📫 How to reach me: DM me @kyledacones
+- 😄 Pronouns: He/Him/His
+
