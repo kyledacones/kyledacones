@@ -6,11 +6,11 @@
 
 A little about me:
 
-- 🔭 I’m currently working on a Mini YouTube Web App in Django
-- 🌱 I’m currently learning Powershell & Data Analysis (Pandas/Numpy) 
-- 👯 I’m looking to collaborate on Python Utilities, Technical Documentation, & Product Management 
-- 🤔 I’m looking for help with Advanced Python & Solving Problems Using Code
-- 💬 Ask me about data modeling or living in Seattle during a tech boom
-- 📫 How to reach me: DM me [@kyledacones](https://github.com/kyledacones)
+- 🔭 I’m currently working on code to make native python shortcuts for iOS 
+- 🌱 I’m currently learning PyObc for MacOS development 
+- 👯 I’m looking to collaborate on DemocracyLab/Nonprofit projects, Project Documentation, & Open Source Python Projects 
+- 💻 I need help getting more comfortable with collaborating on large projects & Git WorkFlow
+- 💬 Ask me about how to help solve the Diversity & Inclusivity Issues in the Tech Industry 
+- 📫 How to reach me: DM me [@kyledacones](https://twitter.com/kyledacones)
 - 😄 Pronouns: He/Him/His
 
