@@ -6,8 +6,8 @@
 
 A little about me:
 
-- 🔭 I’m currently working on code to make native python shortcuts for iOS 
-- 🌱 I’m currently learning PyObc for MacOS development 
+- 🔭 I’m currently working on updating my portfolio by fixing the repos and cleaning up the code. 
+- 🌱 I’m currently learning an Overview of Linux OS & utilizing the terminal better.
 - 👯 I’m looking to collaborate on Nonprofit Social Equity projects, Project Documentation, & Open Source Python Projects 
 - 💻 I need help getting more comfortable with collaborating on large projects & Git WorkFlow
 - 💬 Ask me about how to help with the Diversity & Inclusivity Issues in the Tech Industry 
