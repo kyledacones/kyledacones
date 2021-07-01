@@ -1,5 +1,5 @@
 github:
-  prebuilds:
+  prebuilds: true
     # enable for the master/default branch (defaults to true)
     master: true
     # enable for all branches in this repo (defaults to false)
