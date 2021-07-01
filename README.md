@@ -6,7 +6,7 @@
 
 A little about me:
 
-- 🔭 I’m currently working on updating my portfolio by fixing the repos and cleaning up the code. 
+- 🔭 I’m currently working on using data serialization languages to make config files for all the settings on my devices. 
 - 🌱 I’m currently learning an Overview of Linux OS & utilizing the terminal better.
 - 👯 I’m looking to collaborate on Nonprofit Social Equity projects, Project Documentation, & Open Source Python Projects 
 - 💻 I need help getting more comfortable with collaborating on large projects & Git WorkFlow
