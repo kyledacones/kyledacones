@@ -6,11 +6,9 @@
 
 A little about me:
 
-- 🔭 I’m currently working on using data serialization languages to make config files for all the settings on my devices. 
-- 🌱 I’m currently learning an Overview of Linux OS & utilizing the terminal better.
-- 👯 I’m looking to collaborate on Nonprofit Social Equity projects, Project Documentation, & Open Source Python Projects 
-- 💻 I need help getting more comfortable with collaborating on large projects & Git WorkFlow
-- 💬 Ask me about how to help with the Diversity & Inclusivity Issues in the Tech Industry 
-- 📫 How to reach me: 📱 Twitter [@kyledacones](https://twitter.com/kyledacones), 📧 EMAIL kyledacones01@gmail.com
+- 🔭 under construction . 
+- 🌱 under construction.
+- 👯 under construction
+- 📫 How to reach me: 📱 Twitter [@kyledacones](https://twitter.com/kyledacones), 📧 EMAIL kyle@kyledacones.com
 - 😄 Pronouns: He/Him/His
 
